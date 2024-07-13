@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		346CD76D2C34516B000796AE /* GFEmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 346CD76C2C34516B000796AE /* GFEmptyStateView.swift */; };
+		346CD76F2C43051E000796AE /* UserInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 346CD76E2C43051E000796AE /* UserInfoVC.swift */; };
 		34816E8E2B9A7CCD00EF3477 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34816E8D2B9A7CCD00EF3477 /* GFButton.swift */; };
 		34816E902B9AA01C00EF3477 /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34816E8F2B9AA01C00EF3477 /* GFTextField.swift */; };
 		34816E922BA144DC00EF3477 /* FollowerListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34816E912BA144DC00EF3477 /* FollowerListVC.swift */; };
@@ -33,6 +34,7 @@
 
 /* Begin PBXFileReference section */
 		346CD76C2C34516B000796AE /* GFEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFEmptyStateView.swift; sourceTree = "<group>"; };
+		346CD76E2C43051E000796AE /* UserInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoVC.swift; sourceTree = "<group>"; };
 		34816E8D2B9A7CCD00EF3477 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
 		34816E8F2B9AA01C00EF3477 /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
 		34816E912BA144DC00EF3477 /* FollowerListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerListVC.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				34EFBEEC2B891E9900C938B9 /* SearchVC.swift */,
 				34816E912BA144DC00EF3477 /* FollowerListVC.swift */,
 				34EFBEEE2B891EC400C938B9 /* FavoritesListVC.swift */,
+				346CD76E2C43051E000796AE /* UserInfoVC.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				34EBBAB12BBCE7C800A255BE /* FollowerCell.swift in Sources */,
 				34EBBAB32BBCE9E100A255BE /* GFAvatarImageView.swift in Sources */,
 				34816E982BA4ADE100EF3477 /* GFAlertVC.swift in Sources */,
+				346CD76F2C43051E000796AE /* UserInfoVC.swift in Sources */,
 				34816EA32BAB294E00EF3477 /* Follower.swift in Sources */,
 				34EFBED92B87ED1800C938B9 /* AppDelegate.swift in Sources */,
 				34816E942BA4A8C400EF3477 /* GFTitleLabel.swift in Sources */,
