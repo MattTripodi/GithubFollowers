@@ -1,8 +1,8 @@
 //
-//  ErrorMessage.swift
+//  GFError.swift
 //  GithubFollowers
 //
-//  Created by Matthew Tripodi on 3/28/24.
+//  Created by Matthew Tripodi on 7/22/24.
 //
 
 import Foundation
