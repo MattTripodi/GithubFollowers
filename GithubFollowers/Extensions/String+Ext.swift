@@ -7,6 +7,7 @@
 
 import Foundation
 
+// NO longer need, now using decoder.dateDecodingStrategy = .iso8601
 extension String {
     
     func convertToDate() -> Date? {
