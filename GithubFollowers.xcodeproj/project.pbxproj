@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		34251E852CAC2B330081E099 /* UIView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34251E842CAC2B330081E099 /* UIView+Ext.swift */; };
+		34554ED32CC736A300A1A80B /* UITableView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34554ED22CC736A200A1A80B /* UITableView+Ext.swift */; };
 		346CD76D2C34516B000796AE /* GFEmptyStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 346CD76C2C34516B000796AE /* GFEmptyStateView.swift */; };
 		346CD76F2C43051E000796AE /* UserInfoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 346CD76E2C43051E000796AE /* UserInfoVC.swift */; };
 		346CD7712C4EAD82000796AE /* GFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 346CD7702C4EAD82000796AE /* GFError.swift */; };
@@ -49,6 +50,7 @@
 
 /* Begin PBXFileReference section */
 		34251E842CAC2B330081E099 /* UIView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Ext.swift"; sourceTree = "<group>"; };
+		34554ED22CC736A200A1A80B /* UITableView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Ext.swift"; sourceTree = "<group>"; };
 		346CD76C2C34516B000796AE /* GFEmptyStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFEmptyStateView.swift; sourceTree = "<group>"; };
 		346CD76E2C43051E000796AE /* UserInfoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfoVC.swift; sourceTree = "<group>"; };
 		346CD7702C4EAD82000796AE /* GFError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFError.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 		34816E9F2BA63B3E00EF3477 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				34554ED22CC736A200A1A80B /* UITableView+Ext.swift */,
 				34816E992BA4E4F200EF3477 /* UIViewController+Ext.swift */,
 				34C5E2F62C77762D003C0C81 /* Date+Ext.swift */,
 				34C5E2F82C7776EC003C0C81 /* String+Ext.swift */,
@@ -366,6 +369,7 @@
 				34816E9A2BA4E4F200EF3477 /* UIViewController+Ext.swift in Sources */,
 				34E6E62B2C64540E007A064B /* GFUserInfoHeaderVC.swift in Sources */,
 				34816E922BA144DC00EF3477 /* FollowerListVC.swift in Sources */,
+				34554ED32CC736A300A1A80B /* UITableView+Ext.swift in Sources */,
 				34816E8E2B9A7CCD00EF3477 /* GFButton.swift in Sources */,
 				346CD76D2C34516B000796AE /* GFEmptyStateView.swift in Sources */,
 				34E6E62D2C645589007A064B /* GFSecondaryTitleLabel.swift in Sources */,
